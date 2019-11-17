@@ -1,0 +1,2 @@
+# Shinku
+Learning programming
